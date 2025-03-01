@@ -1,0 +1,27 @@
+.Sans {
+    font-family: "Open Sans", arial, sans-serif;
+    font-size: 20px;
+    font-weight: 300px;
+    font-style: italic;
+    line-height: 30px;
+}
+
+.minus {
+    text-decoration: line-through;
+}
+
+.center {
+    text-align: center;
+}
+
+.rasstoyanie {
+word-spacing: 30px;
+text-decoration: overline wavy;
+color: purple;
+}
+
+.Bukvi {
+    letter-spacing: 5px;
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+}
